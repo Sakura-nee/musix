@@ -1,0 +1,4 @@
+spotipy
+mutagen
+youtube_dl
+requests
